@@ -7,7 +7,7 @@ navbar:
       href: index.html
   right:
     - text: "View the Report"
-      href: https://github.com/MingzhiYe16/PM606_Final_Report/Final_Report_Mingzhi_Ye.html
+      href: Final_Report_Mingzhi_Ye.html
     - text: "Github Repository"
       href: https://github.com/MingzhiYe16/PM606_Final_Report
     - text: "View the Report"
