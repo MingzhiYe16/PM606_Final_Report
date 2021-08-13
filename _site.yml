@@ -11,8 +11,7 @@ navbar:
     - text: "Github Repository"
       href: https://github.com/MingzhiYe16/PM606_Final_Report
     - text: "Download the PDF Report"
-      href: https://github.com/MingzhiYe16/PM606_Final_Report/raw/mainFinal_Report_Mingzhi_Ye.pdf
-output:
+      href: https://github.com/MingzhiYe16/PM606_Final_Report/blob/master/Final_Report_Mingzhi_Ye.pdf
   html_document:
     theme: cosmo
     include:
