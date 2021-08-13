@@ -1,0 +1,20 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "PM566 Final Project"
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - text: "View the Report"
+      href: https://github.com/MingzhiYe16/PM606_Final_Report/Final_Report_Mingzhi_Ye.html
+    - text: "Github Repository"
+      href: https://github.com/MingzhiYe16/PM606_Final_Report
+    - text: "View the Report"
+      href: https://github.com/MingzhiYe16/PM606_Final_Report/Final_Report_Mingzhi_Ye.pdf
+output:
+  html_document:
+    theme: cosmo
+    include:
+      after_body: footer.html
+    css: styles.css

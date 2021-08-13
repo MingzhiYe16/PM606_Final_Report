@@ -1,0 +1,36 @@
+---
+title: "PM606 Final Report"
+author: "Mingzhi Ye"
+output: 
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
+---
+
+
+
+```{css, echo = FALSE}
+.code-r { /* Code block */
+  font-size: 15px;
+}
+
+.code-r-small { /* Code block */
+  font-size: 10px;
+}
+```
+
+<br>
+
+# Welcome to my final report website. 
+
+### If you want to view the final report, click the "View the Report". 
+
+### You can also download the PDF version of it with clicking "Download the PDF Report". 
+### You can also visit the repository by clicking "Github Repository".
+
+#### Best  regard
+
+
+
+
+
